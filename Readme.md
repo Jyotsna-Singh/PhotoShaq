@@ -14,6 +14,7 @@ PhotoShaq - PhotoGallery Website built using the Photo Lightbox Jquery Plugin an
 
 ## Vendors
 jQuery [https://jquery.com/](https://jquery.com/)
+
 Bootstrap [http://getbootstrap.com/](http://getbootstrap.com/)
 
 ## License
