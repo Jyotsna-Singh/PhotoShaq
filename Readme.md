@@ -17,5 +17,7 @@ jQuery [https://jquery.com/](https://jquery.com/)
 
 Bootstrap [http://getbootstrap.com/](http://getbootstrap.com/)
 
+Lightbox Plugin [http://www.lokeshdhakar.com/projects/lightbox2/](http://www.lokeshdhakar.com/projects/lightbox2/)
+
 ## License
 MIT License
