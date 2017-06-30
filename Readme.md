@@ -1,7 +1,7 @@
 # PhotoShaq
 PhotoShaq - PhotoGallery Website built using the Photo Lightbox Jquery Plugin and Twitter Bootstrap components such as Grid UI, Image Carousel and Tab Widget.
 
-## Download/Clone
+## Clone/Download
 
     git clone https://github.com/Jyotsna-Singh/PhotoShaq.git
 
